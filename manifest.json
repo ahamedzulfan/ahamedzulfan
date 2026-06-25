@@ -1,1 +1,20 @@
-
+[
+  {
+    "category": "General",
+    "guid": "8f6a9c2e-4b1d-4e6a-9a3a-2f7e1d9c5b00",
+    "name": "Yt2Strm",
+    "description": "Resolves video links (YouTube, Dailymotion, Vimeo, and anything else yt-dlp supports) into .strm files for your media server, automatically refreshed on a schedule via Jellyfin's scheduler.",
+    "overview": "Link → .strm",
+    "owner": "ahamedzulfan",
+    "versions": [
+      {
+        "version": "0.1.0.0",
+        "changelog": "Release 0.1.0.0",
+        "targetAbi": "10.11.11.0",
+        "sourceUrl": "https://github.com/ahamedzulfan/yt2strm/releases/download/v0.1.0.0/yt2strm.v0.1.0.0.zip",
+        "checksum": "423db6f9acd897aaaff5311c08bb17b5",
+        "timestamp": "2026-06-25T08:21:29Z"
+      }
+    ]
+  }
+]
