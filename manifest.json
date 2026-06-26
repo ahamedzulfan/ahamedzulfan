@@ -17,4 +17,22 @@
       }
     ]
   }
+  {
+    "category": "General",
+    "guid": "a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d",
+    "name": "Custom Iframe Player",
+    "description": "Intercepts native playback to open custom URLs inside an iframe overlay.",
+    "overview": "Iframe Player",
+    "owner": "ahamedzulfan",
+    "versions": [
+      {
+        "version": "0.1.0.0",
+        "changelog": "Release 0.1.0.0",
+        "targetAbi": "10.11.11.0",
+        "sourceUrl": "",
+        "checksum": "",
+        "timestamp": ""
+      }
+    ]
+  }
 ]
