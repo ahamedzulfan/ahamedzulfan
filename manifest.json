@@ -34,5 +34,23 @@
         "timestamp": ""
       }
     ]
+  },
+  {
+    "category": "General",
+    "guid": "8b202e1d-756f-4f2a-8494-81d2daf2ea37",
+    "name": "Strm Manager",
+    "description": "Create, edit and delete .strm files from a simple list, backed by a local SQLite database.",
+    "overview": "Strm Manager",
+    "owner": "ahamedzulfan",
+    "versions": [
+      {
+        "version": "0.1.0.0",
+        "changelog": "Release 0.1.0.0",
+        "targetAbi": "10.11.11.0",
+        "sourceUrl": "",
+        "checksum": "",
+        "timestamp": ""
+      }
+    ]
   }
 ]
