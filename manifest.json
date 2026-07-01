@@ -1,55 +1,19 @@
 [
   {
     "category": "General",
-    "guid": "8f6a9c2e-4b1d-4e6a-9a3a-2f7e1d9c5b00",
-    "name": "Yt2Strm",
-    "description": "Resolves video links (YouTube, Dailymotion, Vimeo, and anything else yt-dlp supports) into .strm files for your media server, automatically refreshed on a schedule via Jellyfin's scheduler.",
-    "overview": "Link → .strm",
+    "guid": "f029e2b3-8dc0-47de-a13d-4df77020485a",
+    "name": "UltimateSTRM",
+    "description": "Strm Manager, yt2strm and Custom Iframe Player combined into a single tabbed plugin with one shared database.",
+    "overview": "Everything you need",
     "owner": "ahamedzulfan",
     "versions": [
       {
         "version": "0.1.0.0",
         "changelog": "Release 0.1.0.0",
         "targetAbi": "10.11.11.0",
-        "sourceUrl": "https://github.com/ahamedzulfan/yt2strm/releases/download/v0.1.0.0/yt2strm.v0.1.0.0.zip",
-        "checksum": "423db6f9acd897aaaff5311c08bb17b5",
-        "timestamp": "2026-06-25T08:21:29Z"
-      }
-    ]
-  },
-  {
-    "category": "General",
-    "guid": "a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d",
-    "name": "Custom Iframe Player",
-    "description": "Intercepts native playback to open custom URLs inside an iframe overlay.",
-    "overview": "Iframe Player",
-    "owner": "ahamedzulfan",
-    "versions": [
-      {
-        "version": "0.1.0.0",
-        "changelog": "Release 0.1.0.0",
-        "targetAbi": "10.11.11.0",
-        "sourceUrl": "",
-        "checksum": "",
-        "timestamp": ""
-      }
-    ]
-  },
-  {
-    "category": "General",
-    "guid": "8b202e1d-756f-4f2a-8494-81d2daf2ea37",
-    "name": "Strm Manager",
-    "description": "Create, edit and delete .strm files from a simple list, backed by a local SQLite database.",
-    "overview": "Strm Manager",
-    "owner": "ahamedzulfan",
-    "versions": [
-      {
-        "version": "0.1.0.0",
-        "changelog": "Release 0.1.0.0",
-        "targetAbi": "10.11.11.0",
-        "sourceUrl": "",
-        "checksum": "",
-        "timestamp": ""
+        "sourceUrl": "https://github.com/ahamedzulfan/UltimateSTRM/releases/download/v0.1.0.0/Jellyfin.Plugin.UltimateStrm.dll",
+        "checksum": "982371ba6be76e23ef5c5c289b5cd4e1",
+        "timestamp": "2026-07-01T11:13:14Z"
       }
     ]
   }
