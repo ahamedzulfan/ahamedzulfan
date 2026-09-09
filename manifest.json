@@ -8,6 +8,14 @@
     "owner": "ahamedzulfan",
     "versions": [
       {
+        "version": "1.2.2.0",
+        "changelog": "Updated yt-dlp code to merge video+audio",
+        "targetAbi": "10.11.11.0",
+        "sourceUrl": "https://github.com/ahamedzulfan/UltimateSTRM/releases/download/v1.2.2.0/UltimateSTRM-1.2.2.0.zip",
+        "checksum": "349f73c252f6b0becacee6c1f747ea6f",
+        "timestamp": "2026-09-09T00:00:00Z"
+      },
+      {
         "version": "1.2.1.0",
         "changelog": "Updated yt-dlp code to merge video+audio",
         "targetAbi": "10.11.11.0",
