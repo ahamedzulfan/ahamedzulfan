@@ -8,6 +8,14 @@
     "owner": "ahamedzulfan",
     "versions": [
       {
+        "version": "1.1.1.0",
+        "changelog": "Release 1.1.1.0",
+        "targetAbi": "10.11.11.0",
+        "sourceUrl": "https://github.com/ahamedzulfan/UltimateSTRM/releases/download/v1.1.1.0/UltimateSTRM-1.1.1.0.zip",
+        "checksum": "9b6ea7c18f116a80ad16233990fa33f1",
+        "timestamp": "2026-09-09T00:00:00Z"
+      },
+      {
         "version": "1.1.0.0",
         "changelog": "Release 1.1.0.0",
         "targetAbi": "10.11.11.0",
